@@ -57,3 +57,15 @@ The server will be running at \`http://localhost:3000\`.
 
 ### Dashboard Summary
 - \`GET /api/dashboard/summary\` - Get aggregated summaries (total income, total expenses, net balance, category totals, recent activity). (Analyst and Admin only)
+
+## Frontend React App
+
+An eye-catching React frontend is available in the `frontend` directory. 
+
+### Running the Frontend
+1. Open a new terminal.
+2. Navigate to `cd frontend`.
+3. Install dependencies: `npm install`.
+4. Start the frontend: `npm run dev`.
+
+This will run the frontend on Vite's default dev server (usually `http://localhost:5173`).
